@@ -7,8 +7,7 @@ _pycache_/
 # API secrets
 .env
 
-# SQLite DB (large, private, already generated)
-knowledge_base.db
+
 
 # Scraped data (optional)
 downloaded_threads/
